@@ -23,5 +23,6 @@ expo start
 </Svg>
 ```
 
-![alt text](https://monosnap.com/file/BLKiBcSbYTnfw7XQIx5IqGfc4g9L27)
+![image](https://user-images.githubusercontent.com/54714643/145202868-18bf6fac-3eac-4310-a9aa-c9e009b85b33.png)
+
 
