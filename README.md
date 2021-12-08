@@ -1,7 +1,7 @@
 # outline-gradiant-text-expo
 
 ## start
-expo start
+- expo start
 
 ## outline text with linear gradiant border 
 
