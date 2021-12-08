@@ -22,3 +22,6 @@ expo start
     </text>
 </Svg>
 ```
+
+![alt text](https://monosnap.com/file/BLKiBcSbYTnfw7XQIx5IqGfc4g9L27)
+
