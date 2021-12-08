@@ -3,7 +3,7 @@
 ## start
 expo start
 
-## linear gradiant border for text
+## outline text with linear gradiant border 
 
 ```
 <Svg style={styles.popular}>
